@@ -1,0 +1,44 @@
+[
+  {
+  "description": "nombres",
+  "type": "NAME"
+  "mode": "GET_NAME"
+  "content": ""
+  },
+  
+  {
+  "description": "apellidos",
+  "type": "LASTNAME"
+  "mode": "GET_LASTNAME"
+  "content": ""
+  },
+  
+  {
+  "description": "nacimiento",
+  "type": "DATEOFBIRTH"
+  "mode": "GET_DATE_OF_BIRTH"
+  "content": ""
+  },
+  
+  {
+  "description": "edad",
+  "type": "AGE"
+  "mode": "GET_AGE"
+  "content": ""
+  },
+  
+  {
+  "description": "followers",
+  "type": "FOLLOWERS"
+  "mode": "GET_FOLLOWERS"
+  "content": ""
+  },
+  
+  {
+  "description": "follows",
+  "type": "FOLLOWS"
+  "mode": "GET_FOLLOWS"
+  "content": ""
+  },
+  
+]
