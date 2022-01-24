@@ -14,6 +14,13 @@
   },
   
   {
+  "description": "usuario",
+  "type": "USER"
+  "mode": "GET_USER"
+  "content": ""
+  },
+  
+  {
   "description": "nacimiento",
   "type": "DATEOFBIRTH"
   "mode": "GET_DATE_OF_BIRTH"
